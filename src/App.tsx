@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import { FaGithub, FaLinkedin, FaEnvelope, FaCode, FaServer, FaDatabase, FaExternalLinkAlt, FaPython, FaReact, FaLaravel } from 'react-icons/fa';
+import { FaGithub, FaEnvelope, FaExternalLinkAlt, FaPython, FaReact, FaLaravel } from 'react-icons/fa';
 import './index.css';
 
 const App = () => {
